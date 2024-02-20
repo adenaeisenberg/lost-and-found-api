@@ -1,1 +1,1 @@
-LostItem.create(name: "Blue Coat", image_url: "https://i5.walmartimages.com/asr/b69e296e-522c-4ac8-9c46-ed520768ede9.0e2ef1dabd2fce56affe8b91afd51e8f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", last_seen: "February 1st, 2024")
+# LostItem.create(name: "Blue Coat", image_url: "https://i5.walmartimages.com/asr/b69e296e-522c-4ac8-9c46-ed520768ede9.0e2ef1dabd2fce56affe8b91afd51e8f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", last_seen: "February 1st, 2024")
