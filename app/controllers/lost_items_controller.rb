@@ -1,4 +1,4 @@
-class LostItemController < ApplicationController
+class LostItemsController < ApplicationController
 
   def index
     @lost_items = LostItem.all
