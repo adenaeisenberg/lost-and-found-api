@@ -1,3 +1,3 @@
 # LostItem.create(name: "Blue Coat", image_url: "https://i5.walmartimages.com/asr/b69e296e-522c-4ac8-9c46-ed520768ede9.0e2ef1dabd2fce56affe8b91afd51e8f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", last_seen: "February 1st, 2024")
 
-FoundItem.create(name: "Kids gloves", image_url: "https://urbangeneralstore.com/cdn/shop/products/britt-s-knits-apparel-accessories-winter-kids-mittens-gloves-blue-wonderland-gloves-kids-31763228459077_1024x1024.png?v=1663362582", location: "Corner of Sunflower Rd and Cherry Blossom Drive", date: "February 15th")
+# FoundItem.create(name: "Kids gloves", image_url: "https://urbangeneralstore.com/cdn/shop/products/britt-s-knits-apparel-accessories-winter-kids-mittens-gloves-blue-wonderland-gloves-kids-31763228459077_1024x1024.png?v=1663362582", location: "Corner of Sunflower Rd and Cherry Blossom Drive", date: "February 15th")
