@@ -5,5 +5,13 @@ class LostItemController < ApplicationController
     render :index
   end
 
-  
+  def create
+    @lost_item = LostItem.create(
+      name: params[:name],
+      image_url: params[:image_url],
+      last_seen: params[:last_seen],
+    )
+    render :show
+  end
+
 end
