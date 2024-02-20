@@ -3,5 +3,6 @@ Rails.application.routes.draw do
   post "/lost_items" => "lost_items#create"
   get "/lost_items/:id" => "lost_items#show"
   patch "/lost_items/:id" => "lost_items#update"
+  delete "/lost_items/:id" => "lost_items#destroy"
 
 end

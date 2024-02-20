@@ -29,4 +29,10 @@ class LostItemsController < ApplicationController
     render :show
   end
 
+  def destroy
+    @lost_item = LostItem.find_by(id: params[:id])
+    @lost_item.destroy
+    render json: { message: "lost_item destroyed successfully" }
+  end
+
 end
