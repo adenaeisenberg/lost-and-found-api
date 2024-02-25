@@ -12,4 +12,6 @@ Rails.application.routes.draw do
   get "/found_items/:id" => "found_items#show"
   patch "/found_items/:id" => "found_items#update"
   delete "/found_items/:id" => "found_items#destroy"
+
+  post "/users" => "users#create"
 end
